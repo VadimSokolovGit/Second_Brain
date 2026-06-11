@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://notebooklm.google.com/?icid=home_maincta&_gl=1*18kz779*_ga*MjcwMzgxNzQyLjE3ODExMDI0ODI.*_ga_W0LDH41ZCB*czE3ODExMDI0ODIkbzEkZzEkdDE3ODExMDI0OTIkajUwJGwwJGgw&authuser=4&pageId=none",
+      "displayName": "Notebook LM",
+      "icon": "Notebook",
+      "hideOnMobile": false,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "",
+      "displayName": "New Frame",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

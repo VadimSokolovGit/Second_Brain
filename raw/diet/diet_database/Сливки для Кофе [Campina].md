@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 120 кКал
+protein_100g: 2.8 г
+fat_100g: 10 г
+carbs_100g: 4.4 г
+---
+
+# Сливки для Кофе [Campina]
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

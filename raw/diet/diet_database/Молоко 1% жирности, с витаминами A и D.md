@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 42 кКал
+protein_100g: 3.37 г
+fat_100g: 0.97 г
+carbs_100g: 4.99 г
+---
+
+# Молоко 1% жирности, с витаминами A и D
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

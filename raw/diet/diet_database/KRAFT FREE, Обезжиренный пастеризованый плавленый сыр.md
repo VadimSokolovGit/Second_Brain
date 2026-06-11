@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 148 кКал
+protein_100g: 22.7 г
+fat_100g: 1 г
+carbs_100g: 11.7 г
+---
+
+# KRAFT FREE, Обезжиренный пастеризованый плавленый сыр
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

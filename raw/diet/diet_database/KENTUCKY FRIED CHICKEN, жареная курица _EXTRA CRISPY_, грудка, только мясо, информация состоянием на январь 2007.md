@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 153 кКал
+protein_100g: 27.25 г
+fat_100g: 4.82 г
+carbs_100g: 0.25 г
+---
+
+# KENTUCKY FRIED CHICKEN, жареная курица "EXTRA CRISPY", грудка, только мясо, информация состоянием на январь 2007
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

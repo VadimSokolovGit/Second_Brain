@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 104.3 кКал
+protein_100g: 1.8 г
+fat_100g: 4.2 г
+carbs_100g: 14.9 г
+---
+
+# KFC КУКУРУЗА (порция 94 гр) [Ростик'c - KFC]
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

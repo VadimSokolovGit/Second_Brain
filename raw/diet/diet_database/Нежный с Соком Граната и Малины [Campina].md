@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 64 кКал
+protein_100g: 1.4 г
+fat_100g: 0.1 г
+carbs_100g: 14.2 г
+---
+
+# Нежный с Соком Граната и Малины [Campina]
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

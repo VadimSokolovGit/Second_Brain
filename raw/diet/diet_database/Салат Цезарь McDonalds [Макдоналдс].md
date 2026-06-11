@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 190 кКал
+protein_100g: 15 г
+fat_100g: 10 г
+carbs_100g: 9 г
+---
+
+# Салат Цезарь McDonalds [Макдоналдс]
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

@@ -1,0 +1,12 @@
+# Obsidian specific
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/core-plugins-migration.json
+.obsidian/graph.json
+.trash/
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini

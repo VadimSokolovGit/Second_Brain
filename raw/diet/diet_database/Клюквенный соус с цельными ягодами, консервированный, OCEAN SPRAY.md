@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 158 кКал
+protein_100g: 0.75 г
+fat_100g: 0.05 г
+carbs_100g: 39.2 г
+---
+
+# Клюквенный соус с цельными ягодами, консервированный, OCEAN SPRAY
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

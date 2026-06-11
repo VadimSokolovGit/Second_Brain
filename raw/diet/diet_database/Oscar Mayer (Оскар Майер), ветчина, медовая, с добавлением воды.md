@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 111 кКал
+protein_100g: 16.7 г
+fat_100g: 3.5 г
+carbs_100g: 3.1 г
+---
+
+# Oscar Mayer (Оскар Майер), ветчина, медовая, с добавлением воды
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 58 кКал
+protein_100g: 0.34 г
+fat_100g: 0.22 г
+carbs_100g: 12.7 г
+---
+
+# Энергетический напиток, ROCKSTAR
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.

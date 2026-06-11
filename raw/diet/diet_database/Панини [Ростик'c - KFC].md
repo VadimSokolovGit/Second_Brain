@@ -1,0 +1,12 @@
+---
+type: product_db
+source: health-diet.ru
+calories_100g: 519 кКал
+protein_100g: 24.7 г
+fat_100g: 21.3 г
+carbs_100g: 56.8 г
+---
+
+# Панини [Ростик'c - KFC]
+
+Данные о продукте автоматически импортированы с сайта Health-Diet.ru.
