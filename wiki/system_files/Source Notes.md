@@ -14,3 +14,4 @@
 | [Linear Algebra L6](file:///c:/Users/USER/Desktop/Second%20Brain/raw/linear%20algebra/Linear_Algebra_Lecture_6.md) | 2026-06-09      | Added | Евклидово пространство, скалярное произведение, длина вектора, ортогональность, проекция, неравенство Коши-Буняковского, угол между векторами, процесс ортогонализации Грама-Шмидта |
 
 | [OOP C++ Lectures](file:///c:/Users/USER/Desktop/Second%20Brain/raw/OOP_CPP/) | 2026-06-11 | Added | ООП, Наследование, Полиморфизм, Шаблоны, STL, Итераторы, Абстрактные классы || [Linear Algebra Lecture 7](file:///c:/Users/USER/Desktop/Second%20Brain/raw/linear%20algebra/Linear_Algebra_Lecture_7.md) | 2026-06-11 | Added | Билинейные функции, Квадратичные формы, Закон изменения матрицы, Нормальный вид, Метод Лагранжа |
+- **Linear_Algebra_Lecture_8.md**: Лекция 8 по линейной алгебре. Темы: Нормальный вид квадратичной формы, закон инерции, Теорема Якоби, Критерий Сильвестра.
